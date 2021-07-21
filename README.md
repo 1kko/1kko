@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-![1kko's GitHub stats](https://github-readme-stats.vercel.app/api?username=1kko&count_private=true)
+[![1kko's GitHub stats](https://github-readme-stats.vercel.app/api?username=1kko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1kko&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1kko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![1kko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1kko&layout=compact)
-
+[![1kko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1kko&layout=compact&hide=Unknown%20Project)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **1kko/1kko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
